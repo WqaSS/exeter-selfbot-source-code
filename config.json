@@ -1,11 +1,11 @@
 {
-    "token": "enter-your-token-here",
-    "password": "discord-password",
-    "prefix": "!!",
+    "token": "TOKEN-HERE",
+    "password": "PASS-HERE",
+    "prefix": "--",
     
     "nitro_sniper": true, 
     "giveaway_sniper": true,
 
-    "stream_url": "https://twitch.tv/souljaboy",
+    "stream_url": "https://twitch.tv/Wqass",
     "tts_language": "en"
 }
